@@ -16,7 +16,7 @@ const ColorBlock = ({
 }) => (
   <div
     {...elementProps}
-    style={{ width: 200, height: 80, backgroundColor: '#9bc0c7', ...style }}
+    style={{ width: 200, height: 80, backgroundColor: 'red', ...style }}
   />
   );
 
